@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EF5350</color>
+    <color name="colorPrimaryDark">#EF5350</color>
+    <color name="colorAccent">#FF8A80</color>
+
+    <!-- Background color for the playlists category -->
+    <color name="category_playlists">#FFCDD2</color>
+
+    <!-- Background color for the artists members category -->
+    <color name="category_artists">#FFEBEE</color>
+
+    <!-- Background color for the songs category -->
+    <color name="category_songs">#FFCDD2</color>
+
+</resources>
